@@ -1,0 +1,17 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "knex-csv-seeder": "^0.4.1",
+    "pg": "^7.8.0",
+    "pg-copy-streams": "1.2.0"
+  }
+}
