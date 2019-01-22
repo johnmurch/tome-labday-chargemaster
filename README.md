@@ -2,6 +2,8 @@
 
 Import script for chargemaster files from hospitals
 
+TL;DR - [https://www.nbcnews.com/news/us-news/hospital-price-list-chargemaster-rules-trump-mandate-2019-n959006](https://www.nbcnews.com/news/us-news/hospital-price-list-chargemaster-rules-trump-mandate-2019-n959006)
+
 ## Overview
 
 I wanted to look at chargemaster files from local Pittsburgh hospitals, specifically from the Allegheny Health Network (AHN).
